@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning ...
+- 📫 How to reach me: yyksh2019@yonsei.ac.kr
+
 <!--
 **yyksh97/yyksh97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
